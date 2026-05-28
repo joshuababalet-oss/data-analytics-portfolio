@@ -22,6 +22,7 @@ Investigate the relationship between sleep duration and cumulative GPA among med
 - Recommended sleep hygiene awareness program for students
 
 ### Files
+- `sleep-research-report.png` - Screenshot of the results 
 - `sleep-research-report.pdf` - Final report submitted to department
 
 ### Skills Demonstrated
