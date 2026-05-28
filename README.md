@@ -25,4 +25,7 @@ leep-academic-study)
 
 ### Contact
 LinkedIn: https://www.linkedin.com/in/joshua-thomas-b10b5a395?utm_source=share_via&utm_content=profile&utm_medium=member_android
-| Email: joshuababalet@gmail.com | [Download CV](./Joshua-Thomas-Babale-Data-Analyst-CV_2026.pdf)
+
+Email: joshuababalet@gmail.com 
+
+[Download CV](./Joshua-Thomas-Babale-Data-Analyst-CV_2026.pdf)
