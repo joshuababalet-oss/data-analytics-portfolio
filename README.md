@@ -22,4 +22,4 @@ Led undergraduate research team analyzing sleep vs CGPA for 200+ medical student
 
 ### Contact
 LinkedIn: https://www.linkedin.com/in/joshua-thomas-b10b5a395?utm_source=share_via&utm_content=profile&utm_medium=member_android
-Email: joshuababalet@gmail.com
+ Email: joshuababalet@gmail.com
