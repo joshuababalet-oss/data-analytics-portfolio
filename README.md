@@ -1,3 +1,5 @@
+<img src="./profile.png" width="150" style="border-radius: 50%;">
+
 # Joshua Thomas Babale - Data Analytics Portfolio
 
 **Aspiring Data Analyst | BSc Human Anatomy | 3MTT Candidate**  
