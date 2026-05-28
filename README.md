@@ -20,8 +20,9 @@ Retail analytics dashboard identifying profit drivers across 5,000+ transactions
 
 **3. The Effect of Sleep on Academic Performance** `Google Forms,and Excel`  
 Led undergraduate research team analyzing sleep vs CGPA for 200+ medical students at Sa'adu Zungur University.  
-→ [/03-sleep-academic-study](./03-sleep-academic-study)
+→ [/03-sleep-academic-study](./03-s
+leep-academic-study)
 
 ### Contact
 LinkedIn: https://www.linkedin.com/in/joshua-thomas-b10b5a395?utm_source=share_via&utm_content=profile&utm_medium=member_android
- Email: joshuababalet@gmail.com
+| Email: joshuababalet@gmail.com | [Download CV](./Joshua-Thomas-Babale-Data-Analyst-CV_2026.pdf)
