@@ -1,4 +1,5 @@
 # Effect of Sleep on Academic Performance
+![Dashboard Preview](./sleep-research-report.png)
 
 **Role:** Project Lead & Data Analyst  
 **Type:** Undergraduate Research Project, Sa'adu Zungur University  
