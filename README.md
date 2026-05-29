@@ -26,6 +26,6 @@ Led undergraduate research team analyzing sleep vs CGPA for 200+ medical student
 
 [![Message me on WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348025722477?text=Hi%20Joshua%2C%20I%20saw%20your%20data-analytics-portfolio%20on%20GitHub%20and%20wanted%20to%20connect.)
 
-LinkedIn: https://www.linkedin.com/in/joshua-thomas-b10b5a395?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-Email: joshuababalet@gmail.com | [Download CV](./Joshua-Thomas-Babale-Data-Analyst-CV_2026.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-thomas-b10b5a95/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshuababalet@gmail.com)| [Download CV](./Joshua-Thomas-Babale-Data-Analyst-CV_2026.pdf)
