@@ -1,4 +1,5 @@
 # Big Store Sales & Profit Performance Dashboard
+![Dashboard Preview](./big-store-dashboard.png)
 
 **Tools:** Excel, Power BI, Pivot Tables, DAX  
 **Data:** 9,000+ anonymized retail transactions  
