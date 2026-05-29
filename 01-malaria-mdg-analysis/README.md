@@ -22,6 +22,7 @@ Evaluate progress toward UN Millennium Development Goal 6: Combat HIV/AIDS, mala
 - Top 10 Regional comparison bars
 
 ### Files
+- `malaria-data.csv` - Raw dataset obtained from Institute for Health Metrics and Evaluation, Global Burden of Disease (2019)
 - `malaria-dataset-cleaning.py` - Python code used for cleaning the datasets
 - `malaria-dashboard.png` - Screenshot of final dashboard
 - `malaria-data.xlsx` - Cleaned dataset with calculations
