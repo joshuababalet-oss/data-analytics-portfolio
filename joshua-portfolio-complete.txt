@@ -1,0 +1,77 @@
+JOSHUA THOMAS BABALE - DATA ANALYST PORTFOLIO
+
+=== PROFILE & CONTACT ===
+Background: B.Sc Human Anatomy graduate transitioning into Data Analytics. 3MTT Nigeria Candidate. I combine healthcare domain knowledge with technical skills to turn raw data into actionable insights.
+
+Technical Skills: Excel, Power BI, SQL, Python, Data Visualization, Looker Studio, Pivot Tables, Power Query, DAX, Statistical Analysis, Dashboard Design, Data Cleaning, Data Storytelling, Research Design
+
+Location: Abuja, Nigeria | Open to: Remote roles globally, Relocation opportunities
+Contact: joshuababalet@gmail.com | GitHub: joshuababale1-oss | LinkedIn: available on request
+Current Status: Actively upskilling through Nigeria's 3MTT Programme, Data Analysis track. Seeking entry-level to junior data analyst roles.
+
+=== PROJECT 1: GLOBAL MALARIA 1990-2019 - MDG ANALYSIS ===
+Tools: Python, Excel, Power Query, Pivot Tables, Charts
+Data Source: Institute for Health Metrics and Evaluation, Global Burden of Disease (2019)
+Date: 2026
+
+Project Goal: Evaluate progress toward UN Millennium Development Goal 6: Combat HIV/AIDS, malaria, and other diseases. Focus on malaria trends from 1990-2019 across 190+ countries.
+
+Key Findings:
+1. 27% reduction in confirmed malaria cases globally by 2015 vs 2000 baseline
+2. 37% drop in malaria incidence rate per 1,000 population at risk
+3. Africa burden: Region still accounted for ~90% of global cases in 2019
+4. Target missed: World Health Assembly 50% reduction goal for 2015 not achieved
+
+Dashboard Features: Interactive year filter with slicers, country filter with slicers, time-series trend charts 1990-2019, KPI cards for cases, top 10 regional comparison bars
+
+Skills Demonstrated: Data cleaning, trend analysis, public health data visualization, KPI design, working with WHO datasets
+My Role: End-to-end analysis: data cleaning with Python, modeling in Excel, dashboard design, and insights documentation.
+
+=== PROJECT 2: BIG STORE SALES & PROFIT PERFORMANCE DASHBOARD ===
+Tools: Excel, Power BI, Pivot Tables, DAX
+Data: 9,000+ anonymized retail transactions
+Date: 2025
+
+Project Goal: Identify top-performing product categories, regions, and discount strategies. Find profit leakage points for a retail chain.
+
+Key Findings: Technology category drove 50% of total profit despite being 35% of sales. Identified specific discount levels that eroded margins.
+
+Dashboard Features: KPI cards for Total Sales and Profit, Sales vs Profit trend by month and year, Profit by Category and Region bar charts, interactive year/category slicers
+
+Skills Demonstrated: Business analytics, profit analysis, dashboard design, data storytelling, automated reporting, DAX calculations
+Impact: Enabled managers to identify underperforming product categories and discount policies that reduced profitability.
+
+=== PROJECT 3: THE EFFECT OF SLEEP ON ACADEMIC PERFORMANCE ===
+Role: Project Lead & Data Analyst
+Type: Undergraduate Research Project, Sa'adu Zungur University
+Team Size: 4 students | Tools: Google Forms, Excel, Python | Data: 200+ survey responses
+Date: 2024
+
+Project Goal: Investigate the relationship between sleep duration and cumulative GPA among medical students.
+
+My Contributions:
+1. Survey Design: Created Google Forms questionnaire, defined variables, managed response collection
+2. Data Pipeline: Exported responses to Excel, coded categorical data, handled missing values
+3. Analysis: Ran descriptive statistics and correlation test in Excel to test sleep vs CGPA hypothesis
+4. Reporting: Wrote methods/results sections and presented findings to Faculty of Basic Medical Sciences
+
+Key Findings: Students sleeping <7 hours/night had lower average CGPA. Significant relationship found between sleep duration and academic performance p<0.05. Recommended sleep hygiene awareness program for students.
+
+Skills Demonstrated: Research design, survey administration, data cleaning, statistical analysis, academic writing, team leadership, hypothesis testing
+Academic Impact: Presented to department. Recommendations adopted for student wellness program.
+
+=== FREQUENTLY ASKED QUESTIONS ===
+Q: Tell me about yourself
+A: I'm Joshua, a data analyst with a B.Sc. in Anatomy from 3MTT Nigeria. I specialize in Python, Power BI, and Excel. I've analyzed 30 years of malaria data across 190+ countries and built dashboards for retail KPI tracking. I'm based in Abuja and open to remote data analyst roles.
+
+Q: What are your key skills?
+A: Python with Pandas, Power BI with DAX, Excel including Power Query and VBA, data cleaning, data visualization, and statistical analysis. I focus on turning messy data into clear business insights.
+
+Q: Are you open to remote work?
+A: Yes, I’m based in Bauchi, Nigeria and open to remote roles globally. I’m also open to relocation for the right opportunity.
+
+Q: What’s your salary expectation?
+A: I’m open to discussing compensation based on the role, location, and total package. My priority is finding a role where I can drive impact with data.
+
+Q: Which project are you most proud of?
+A: The Global Malaria MDG Analysis. I cleaned and analyzed 30 years of WHO data across 190+ countries using Python and Excel, identifying that malaria cases dropped 27% by 2015 but the 50% reduction target was missed. It combined my healthcare background with data skills.
